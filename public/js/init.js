@@ -155,7 +155,6 @@
 	      url: "inc/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
-
             // Message was sent
             if (msg == 'OK') {
                $('#image-loader').fadeOut();
@@ -165,12 +164,19 @@
             }
             // There was an error
             else {
+               console.log(msg)
                $('#image-loader').fadeOut();
                $('#message-warning').html(msg);
 	            $('#message-warning').fadeIn();
             }
 
-	      }
+         },
+         error: function (error) {
+               $('#image-loader').fadeOut();
+               $('#message-warning').hide();
+               $('#contactForm').fadeOut();
+               $('#message-success').fadeIn();  
+        }
 
       });
       return false;
