@@ -1,172 +1,173 @@
 {
   "main": {
-    "name":"Raveendra",
-    "occupation":"Senior software engineer ",
-    "description":"at Accenture",
-    "image":"profilepic.jpg",
-    "bio":"I have over 6+ years of enterprise application development experience in Finance,Ecommerce and Healthcare domains. In my career I have been engaged at various stages of SDLC like design, development and testing. My strongest technical asset is developing web applications using Microsoft ASP.NET Technologies. I have worked in different software development methodologies like waterfall, iterative and agile. During the course of day my job involves managing Sitecore practice and designing CMS based solutions to integrate various business systems and solving the challenges we encounter during implementation. Part of my job involves gathering information related to unit of work and sharing/guiding my team to meet timely deliveries of user stories. I utilize my strong technical, analytical, reasoning and mentoring skills to develop highly productive, performing, reliable, cost effective and maintainable software systems which helps business realize their goals .",
+    "name": "Raveendra",
+    "occupation": "Senior software engineer ",
+    "description": "at Accenture",
+    "image": "profilepic.jpg",
+    "bio": "I have over 6+ years of enterprise application development experience in Finance,Ecommerce and Healthcare domains. In my career I have been engaged at various stages of SDLC like design, development and testing. My strongest technical asset is developing web applications using Microsoft ASP.NET Technologies. I have worked in different software development methodologies like waterfall, iterative and agile. During the course of day my job involves managing Sitecore practice and designing CMS based solutions to integrate various business systems and solving the challenges we encounter during implementation. Part of my job involves gathering information related to unit of work and sharing/guiding my team to meet timely deliveries of user stories. I utilize my strong technical, analytical, reasoning and mentoring skills to develop highly productive, performing, reliable, cost effective and maintainable software systems which helps business realize their goals .",
     "email": "yadalaraveendra@gmail.com",
     "phone": "+91 9705334881",
-    "address":{
-      "street":"Inimetla Post , Rajupalem (m.d)",
-      "city":"Guntur (d.t)",
-      "state":"Andhra Pradesh",
+    "address": {
+      "street": "Inimetla Post , Rajupalem (m.d)",
+      "city": "Guntur (d.t)",
+      "state": "Andhra Pradesh",
       "zip": "522615"
     },
     "website": "https://raveendrayadala.azurewebsites.net/",
-    "resumedownload":"Raveendra-Resume.docx",
-    "social":[
+    "resumedownload": "Raveendra-Resume.docx",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/yadalaraveendra",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "http://facebook.com/yadalaraveendra",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/yadalaraveendra",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/yadalaraveendra",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/yadalaraveendra",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "http://googleplus.com/yadalaraveendra",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/raveendra-yadala-bb199922/",
-        "className":"fa fa-linkedin"
-      },     
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/raveendra-yadala-bb199922/",
+        "className": "fa fa-linkedin"
+      },
       {
-        "name":"skype",
-        "url":"http://skype.com/yadalaraveendra",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com/yadalaraveendra",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[      
-	  
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"Rao & Naidu engineering college",
-        "degree":"Information technology",
-        "graduated":"2007- 2011",
-        "description":"Time spent at my college is the best time for me. I keep those memories for life long. This is the place where i first get to know something, find my hangout and friends ."
+        "school": "Rao & Naidu engineering college",
+        "degree": "Information technology",
+        "graduated": "2007- 2011",
+        "description": "Time spent at my college is the best time for me. I keep those memories for life long. This is the place where i first get to know something, find my hangout and friends ."
       },
-	   {
-        "school":"Sarada junior college",
-        "degree":"Specialization as (M.P.C) ",
-        "graduated":"2005-2007",
-        "description":"My entry into a college after I had completed my school education was an important event in my life. I felt very much excited on the very first day. I found that there is a great difference between school and college life. The world of the school is narrow and limited. The world of the college is large. Teachers in a school are strict and use the rod to beat the boys very frequently. College teachers are like elder brothers."
-      },{
-        "school":"Vidhyarthi model school",
-        "degree":"Secondary School Certificate",
-        "graduated":"2004-2005",
-        "description":"There is a lot of study pressure. I need to balance between my academics and extra-curricular activities and also prepare for competitive examinations that lie ahead. Even as i have so much to do and i don’t want to miss out on the fun i can have with my friends as this is also the time for blooming friendships and a lot of mischief."
+      {
+        "school": "Sarada junior college",
+        "degree": "Specialization as (M.P.C) ",
+        "graduated": "2005-2007",
+        "description": "My entry into a college after I had completed my school education was an important event in my life. I felt very much excited on the very first day. I found that there is a great difference between school and college life. The world of the school is narrow and limited. The world of the college is large. Teachers in a school are strict and use the rod to beat the boys very frequently. College teachers are like elder brothers."
+      },
+      {
+        "school": "Vidhyarthi model school",
+        "degree": "Secondary School Certificate",
+        "graduated": "2004-2005",
+        "description": "There is a lot of study pressure. I need to balance between my academics and extra-curricular activities and also prepare for competitive examinations that lie ahead. Even as i have so much to do and i don’t want to miss out on the fun i can have with my friends as this is also the time for blooming friendships and a lot of mischief."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Accenture service PVT LTD",
-        "title":"Senior Software Engineer",
-        "years":"June-2015 To Till Date",
-        "description":"Part of Development and Operations support in Volvo cars ,Handling bugs  for all the modules ,Supporting P1/P2 issues in prod during the business and non-business hours(24/7) for most of the modules ,Fixing existing Exceptions/Errors and warnings based on production logs and from monitoring tools  and raising PR’s to improve the code quality and providing the weekly status to clients, Monitoring the App Dynamics, Apica alerts and taken actions immediately based on the priority ,Attended Two-months in onshore(Sweden and Latvia) KT sessions related to application and  Provided reverse KT Sessions to my team internally, Taking care of end-to-end activities for new Cars launches and campaigns for Volvo studio ,VBS and OXP for V316,V432,N431,N433 ,Implemented two automation tools in Volvo cars to reduce volume of the Service now incidents/requests ,Leading team members, code review, problem solving, RCA's  and efficient knowledge management and worked on Azure like APP insights, Blobs, Cosmos DB's , monitoring, app services, cloud services , services bus, active directory integrations .. etc .",
-		"Technologies":"Sitecore MVC, C#, HTML, CSS, JQuery, Angular JS, ReactJS, MS Azure and SQL"
+        "company": "Accenture service PVT LTD",
+        "title": "Senior Software Engineer",
+        "years": "June-2015 To Till Date",
+        "description": "Part of Development and Operations support in Volvo cars ,Handling bugs  for all the modules ,Supporting P1/P2 issues in prod during the business and non-business hours(24/7) for most of the modules ,Fixing existing Exceptions/Errors and warnings based on production logs and from monitoring tools  and raising PR’s to improve the code quality and providing the weekly status to clients, Monitoring the App Dynamics, Apica alerts and taken actions immediately based on the priority ,Attended Two-months in onshore(Sweden and Latvia) KT sessions related to application and  Provided reverse KT Sessions to my team internally, Taking care of end-to-end activities for new Cars launches and campaigns for Volvo studio ,VBS and OXP for V316,V432,N431,N433 ,Implemented two automation tools in Volvo cars to reduce volume of the Service now incidents/requests ,Leading team members, code review, problem solving, RCA's  and efficient knowledge management and worked on Azure like APP insights, Blobs, Cosmos DB's , monitoring, app services, cloud services , services bus, active directory integrations .. etc .",
+        "Technologies": "Sitecore MVC, C#, HTML, CSS, JQuery, Angular JS, ReactJS, MS Azure and SQL"
       },
       {
-        "company":"Psibertech PVT LTD",
-        "title":"Software Engineer",
-        "years":"Sep-2014 To May-2015",
-        "description":"Worked on different projects development like EDS,3M and TSA. Participated in requirements analysis ,Collaborate with internal teams to produce software design and architecture,Write clean scalable code using .NET programming languages,Test and deploy applications and systems,Revise, update, refactor and debug code,Improve existing software,Develop documentation throughout the software development life cycle (SDLC),Serve as an expert on applications and provide technical support",
-		"Technologies":"Asp,Net,ASp.Net MVC,C#,HTML,CSS,Javascript,JQuery,Angular JS and SQL"
-	  },{
-        "company":"Aboveo Service PVT LTD",
-        "title":"Trainee Software Engineer",
-        "years":"Feb-2012 To Aug-2014",
-        "description":"Aboveo is startup company and i joined as number third employee in my organization , i have done almost three projects in short period, out of this projects i have done  one project End to End  which is my company portal (https://aboveo.com/) with having lots of challenging functionalities ,I am really proud to say , still  the company using same version which I developed . ",
-		"Technologies":"Sp.Net MVC,Ado.Net,C#,HTML,CSS,Javascript,JQuery and SQL"
+        "company": "Psibertech PVT LTD",
+        "title": "Software Engineer",
+        "years": "Sep-2014 To May-2015",
+        "description": "Worked on different projects development like EDS,3M and TSA. Participated in requirements analysis ,Collaborate with internal teams to produce software design and architecture,Write clean scalable code using .NET programming languages,Test and deploy applications and systems,Revise, update, refactor and debug code,Improve existing software,Develop documentation throughout the software development life cycle (SDLC),Serve as an expert on applications and provide technical support",
+        "Technologies": "Asp,Net,ASp.Net MVC,C#,HTML,CSS,Javascript,JQuery,Angular JS and SQL"
+      },
+      {
+        "company": "Aboveo Service PVT LTD",
+        "title": "Trainee Software Engineer",
+        "years": "Feb-2012 To Aug-2014",
+        "description": "Aboveo is startup company and i joined as number third employee in my organization , i have done almost three projects in short period, out of this projects i have done  one project End to End  which is my company portal (https://aboveo.com/) with having lots of challenging functionalities ,I am really proud to say , still  the company using same version which I developed . ",
+        "Technologies": "Sp.Net MVC,Ado.Net,C#,HTML,CSS,Javascript,JQuery and SQL"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"ASP .Net MVC",
-        "level":"90%"
-      },
-	  {
-        "name":"ADO .Net ",
-        "level":"80%"
-      },
-	  {
-        "name":"Sitecore MVC",
-        "level":"70%"
-      },
-	   {
-        "name":"SQL",
-        "level":"70%"
+        "name": "ASP .Net MVC",
+        "level": "90%"
       },
       {
-        "name":"Angular JS",
-        "level":"90%"
+        "name": "ADO .Net ",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
-      },     
-      {
-        "name":"HTML5 ,CSS,Javascript",
-        "level":"90%"
+        "name": "Sitecore MVC",
+        "level": "70%"
       },
       {
-        "name":"Jquery",
-        "level":"85%"
+        "name": "SQL",
+        "level": "70%"
       },
       {
-        "name":"Microsoft Azure",
-        "level":"75%"
-      }         
+        "name": "Angular JS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5 ,CSS,Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Jquery",
+        "level": "85%"
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "75%"
+      }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Volvo Cars Corporation",
-        "category":"",
-        "image":"Volvocars.PNG",
-        "url":"http://volvocars.com/"
+        "title": "Volvo Cars Corporation",
+        "category": "",
+        "image": "Volvocars.PNG",
+        "url": "http://volvocars.com/"
       },
       {
-        "title":"Aboveo Service PVT LTD",
-        "category":"",
-        "image":"Aboveo.PNG",
-        "url":"https://aboveo.com/"
-      },
-	  {
-        "title":"Psibertech Solutions",
-        "category":"",
-        "image":"Psibertech.PNG",
-        "url":"https://www.psibertech.com.sg/home"
+        "title": "Aboveo Service PVT LTD",
+        "category": "",
+        "image": "Aboveo.PNG",
+        "url": "https://aboveo.com/"
       },
       {
-        "title":"My Resume",
-        "category":"",
-        "image":"MyResume.PNG",
-        "url":"https://raveendrayadala.azurewebsites.net/"
+        "title": "Psibertech Solutions",
+        "category": "",
+        "image": "Psibertech.PNG",
+        "url": "https://www.psibertech.com.sg/home"
+      },
+      {
+        "title": "My Resume",
+        "category": "",
+        "image": "MyResume.PNG",
+        "url": "https://raveendrayadala.azurewebsites.net/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Raveendra has established as a key resource in Volvo cars operations support where he helped the team members when they are stuck and provided the required support and handled the issues single handedly",
-        "user":"Kiran kumar Gandhavarapu"
+        "text": "Raveendra has established as a key resource in Volvo cars operations support where he helped the team members when they are stuck and provided the required support and handled the issues single handedly",
+        "user": "Kiran kumar Gandhavarapu"
       },
       {
-        "text":"Raveendra has taken the responsibility of App Dynamics and managed to reduce the errors and exceptions counts to less numbers in production.",
-        "user":"Devaguru Poundoss"
+        "text": "Raveendra has taken the responsibility of App Dynamics and managed to reduce the errors and exceptions counts to less numbers in production.",
+        "user": "Devaguru Poundoss"
       },
-	  {
-        "text":"Raveendra has Strong MVC and Angular js knowledge which was required during a critical phase of HCP project. He doesn't have any sitecore knowledge when he joined but still adapted to the situation.",
-        "user":"venkata phani abburi"
+      {
+        "text": "Raveendra has Strong MVC and Angular js knowledge which was required during a critical phase of HCP project. He doesn't have any sitecore knowledge when he joined but still adapted to the situation.",
+        "user": "venkata phani abburi"
       }
     ]
   }
