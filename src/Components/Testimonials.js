@@ -3,8 +3,9 @@ import React, { Component } from 'react';
 class Testimonials extends Component {
   render() {
 
-    if(this.props.data){
-      var testimonials = this.props.data.testimonials.map(function(testimonials){
+   const getMainContent = this.props.data?.items;
+   if (getMainContent !== undefined) {
+      var testimonials = getMainContent.map(function(testimonials){
         return  <li key={testimonials.user}>
             <blockquote>
                <p>{testimonials.text}</p>

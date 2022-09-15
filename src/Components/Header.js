@@ -3,13 +3,14 @@ import React, { Component } from 'react';
 
 class Header extends Component {
   render() {
-
-    if(this.props.data){
-      var name = this.props.data.name;
-      var occupation= this.props.data.occupation;
-      var description= this.props.data.description;
+   const getMainContent = this.props.data;
+   console.log()
+   if (getMainContent !== undefined) {
+      var name = getMainContent?.mainCollection?.items[0]?.name;
+      var occupation= getMainContent?.mainCollection?.items[0]?.occupation;
+      var description= getMainContent?.mainCollection?.items[0]?.description;
       // var city= this.props.data.address.city;
-      var networks= this.props.data.social.map(function(network){
+      var networks= getMainContent?.socialCollection?.items?.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     }
