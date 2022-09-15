@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2019 Yadala Raveendra</li>
-              <li>Design by <a title="Styleshout" href="http://www.yadalaraveendra.com/">Raveendra Yadala</a></li>
+              <li>&copy; Copyright 2022 Yadala Raveendra</li>
+              <li>Design by <a title="Styleshout" href="https://raveendra-portfolio.vercel.app">Raveendra Yadala</a></li>
            </ul>
 
         </div>
